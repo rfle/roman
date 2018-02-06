@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator>
+  <link href="https://rfle.github.io/portfolio/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://rfle.github.io/portfolio/" rel="alternate" type="text/html" />
+  <updated>2018-02-06T11:39:10+01:00</updated>
+  <id>https://rfle.github.io/portfolio/</id>
+
+  
+    <title type="html">Roman Fleischanderl</title>
+  
+
+  
+    <subtitle>Portfolio von Roman Fleischanderl - Webdesign - Entwicklung</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Brandery</title>
+      <link href="https://rfle.github.io/portfolio/woocommerce%20projekt/2014/07/18/project-1/" rel="alternate" type="text/html" title="Brandery" />
+      <published>2014-07-18T00:00:00+02:00</published>
+      <updated>2014-07-18T00:00:00+02:00</updated>
+      <id>https://rfle.github.io/portfolio/woocommerce%20projekt/2014/07/18/project-1</id>
+      <content type="html" xml:base="https://rfle.github.io/portfolio/woocommerce%20projekt/2014/07/18/project-1/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Woocommerce Projekt" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">CTX World</title>
+      <link href="https://rfle.github.io/portfolio/woocommerce%20projekt/2014/07/17/project-2/" rel="alternate" type="text/html" title="CTX World" />
+      <published>2014-07-17T00:00:00+02:00</published>
+      <updated>2014-07-17T00:00:00+02:00</updated>
+      <id>https://rfle.github.io/portfolio/woocommerce%20projekt/2014/07/17/project-2</id>
+      <content type="html" xml:base="https://rfle.github.io/portfolio/woocommerce%20projekt/2014/07/17/project-2/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Woocommerce Projekt" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Sonnberg Shop</title>
+      <link href="https://rfle.github.io/portfolio/screendesign%20/%20html%20/%20css/2014/07/16/project-3/" rel="alternate" type="text/html" title="Sonnberg Shop" />
+      <published>2014-07-16T00:00:00+02:00</published>
+      <updated>2014-07-16T00:00:00+02:00</updated>
+      <id>https://rfle.github.io/portfolio/screendesign%20/%20html%20/%20css/2014/07/16/project-3</id>
+      <content type="html" xml:base="https://rfle.github.io/portfolio/screendesign%20/%20html%20/%20css/2014/07/16/project-3/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Screendesign / HTML / CSS" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Sonnberg Website</title>
+      <link href="https://rfle.github.io/portfolio/screendesign%20/%20html%20/%20css/2014/07/15/project-4/" rel="alternate" type="text/html" title="Sonnberg Website" />
+      <published>2014-07-15T00:00:00+02:00</published>
+      <updated>2014-07-15T00:00:00+02:00</updated>
+      <id>https://rfle.github.io/portfolio/screendesign%20/%20html%20/%20css/2014/07/15/project-4</id>
+      <content type="html" xml:base="https://rfle.github.io/portfolio/screendesign%20/%20html%20/%20css/2014/07/15/project-4/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Screendesign / HTML / CSS" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Take2NoLimits</title>
+      <link href="https://rfle.github.io/portfolio/wordpress/2014/07/15/project-6/" rel="alternate" type="text/html" title="Take2NoLimits" />
+      <published>2014-07-15T00:00:00+02:00</published>
+      <updated>2014-07-15T00:00:00+02:00</updated>
+      <id>https://rfle.github.io/portfolio/wordpress/2014/07/15/project-6</id>
+      <content type="html" xml:base="https://rfle.github.io/portfolio/wordpress/2014/07/15/project-6/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Wordpress" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Martina Schneider</title>
+      <link href="https://rfle.github.io/portfolio/design%20/%20html%20/%20css%20/%20reactjs/2014/07/14/project-5/" rel="alternate" type="text/html" title="Martina Schneider" />
+      <published>2014-07-14T00:00:00+02:00</published>
+      <updated>2014-07-14T00:00:00+02:00</updated>
+      <id>https://rfle.github.io/portfolio/design%20/%20html%20/%20css%20/%20reactjs/2014/07/14/project-5</id>
+      <content type="html" xml:base="https://rfle.github.io/portfolio/design%20/%20html%20/%20css%20/%20reactjs/2014/07/14/project-5/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Design / HTML / CSS / ReactJS" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
